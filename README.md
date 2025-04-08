@@ -53,9 +53,9 @@ Fetch all feedback entries with pagination.
 ```
 
 
-git clone https://github.com/dan1sh15/Feedback-controller-backend.git
-cd Feedback-controller-backend
-npm install
+- git clone https://github.com/dan1sh15/Feedback-controller-backend.git
+- cd Feedback-controller-backend
+- npm install
 
 ```
 ├── model/
