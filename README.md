@@ -44,14 +44,13 @@ Fetch all feedback entries with pagination.
   "status": "success",
   "code": 200,
   "message": "Successfully",
-  "data": {
-    "data": [ ...feedbackList ],
-    "page": 0,
-    "per_page": 10,
-    "total": 35,
-    "total_pages": 4
-  }
+  "data": [ ...feedbackList ],
+  "page": 0,
+  "per_page": 10,
+  "total": 35,
+  "total_pages": 4
 }
+```
 
 
 git clone https://github.com/dan1sh15/Feedback-controller-backend.git
